@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 29 18:53:04 2017
-
-@author: yu
-"""
-
 import random
 
 answer = random.randint(1, 99)

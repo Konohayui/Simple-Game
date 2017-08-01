@@ -25,17 +25,27 @@ def getSpace(L):
         return irange
     else:
         return getSpace(L)
-    
+
+def countSpace(word):
+    space = 0
+    for c in list(word):
+        if c == '_':
+            space += 1
+    return space
+
 def deleteLetters(word):
     w = list(word)
     irange = getSpace(len(w))
     for i in irange:
         w[i] = '_'
     new_word = ''.join(w)
-    print(new_word)
-    
+    blanks = countSpace(new_word)
+    print(new_word, ',', blanks, 'letters need to enter')
+        
 def isMatch(answer, attempt):
     if answer == attempt:
         return True
     else:
         return False
+    
+    

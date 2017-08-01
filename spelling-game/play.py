@@ -14,6 +14,9 @@ def playGame(wordList):
             print('This is correct! Total number of correct word is', correct)
             print('Your score is', score)
             wordList.remove(answer)
+            if len(wordList) == 0:
+                print('You got all words!')
+                command = 'e'
         elif not isMatch(answer, attempt):
             score -= 1
             print('This is incorrect! The correct answer is', answer)

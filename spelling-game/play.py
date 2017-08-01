@@ -13,6 +13,7 @@ def playGame(wordList):
             correct += 1
             print('This is correct! Total number of correct word is', correct)
             print('Your score is', score)
+            wordList.remove(answer)
         elif not isMatch(answer, attempt):
             score -= 1
             print('This is incorrect! The correct answer is', answer)

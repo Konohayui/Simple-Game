@@ -20,11 +20,8 @@ def getWord(wordList):
         return getWord(wordList)
 
 def getSpace(L):
-    irange = numpy.random.choice(range(L), random.randint(0, L-1))
-    if len(irange) > 0:
-        return irange
-    else:
-        return getSpace(L)
+    irange = numpy.random.choice(range(L), random.randint(1, L//2))
+    return irange
 
 def countSpace(word):
     space = 0

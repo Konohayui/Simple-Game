@@ -1,7 +1,7 @@
 from Main import *
 
 def playGame(wordList):
-    command = input('Enter any key to start/e to end the game: ')
+    command = input('Press any key to start/e to end the game: ')
     score = 0
     correct = 0
     while command != 'e':
@@ -17,7 +17,7 @@ def playGame(wordList):
             score -= 1
             print('This is incorrect! The correct answer is', answer)
             print('Your score is', score)
-        command = input('Enter any key to continue/e to end the game: ')
+        command = input('Press any key to continue/e to end the game: ')
 
 if __name__ == '__main__':
     wordList = loadWords()

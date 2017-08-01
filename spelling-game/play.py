@@ -22,7 +22,7 @@ def playGame(wordList):
             print('This is incorrect! The correct answer is', answer)
             print('Your score is', score)
         command = input('Press any key to continue/e to end the game: ')
-
+    print('Game Over!')
 if __name__ == '__main__':
     wordList = loadWords()
     playGame(wordList)

@@ -16,6 +16,7 @@ def playGame(wordList):
             correct += 1
             print('This is correct! Total number of correct word is', correct)
             print('Your score is', score)
+            wordList.pop(answer, None)
             if len(wordList) == 0:
                 print('You got all words!')
                 command = 'e'

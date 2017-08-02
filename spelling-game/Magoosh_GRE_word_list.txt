@@ -198,3 +198,797 @@ exemplify	vt. 例证,例示
 egotist	n. 言必称“我”者, 自高自大者
 travail	n. 分娩的痛苦, 阵痛, 辛劳 vi. 苦干, 辛劳，（因分娩）发生阵痛
 besmirch	vt. 弄污, 污渍
+impede	v. 妨碍,阻碍,阻止
+avid	adj. 渴望的,贪婪的,热心的
+animosity	n. 憎恶, 仇恨
+benign	adj. 仁慈的,温和的,良性的
+apex	n. 顶点, 最高点，尖端
+excruciating	adj. 极痛苦的, 折磨人的 动词excruciate的现在分词形式
+impeccable	adj. 无瑕疵的
+martial	adj. 军事的, 战争的
+begrudge	vt. 嫉妒, 羡慕, 对（某人所享有的）感到不满；舍不得给
+variance	n. 不一致, 变化; [数]方差
+constraint	n. 约束, 强制, 约束条件, 对感情的压抑, 虚情假意 [计算机] 限制
+ingenuity	n. 智巧, 创造力, 精巧的设计
+contrite	adj. 悔悟了的, 后悔的, 痛悔的
+degrade	vt. 贬低；使……丢脸；使……降级；使……降解 vi. 降级，降低；退化
+intermittent	adj. 间歇的,断断续续的
+uncanny	adj. 神秘的, 不可思议的
+cumbersome	adj. 笨重的
+reprobate	n. 堕落的人, 恶棍, 被神遗弃的人 adj. 堕落的, 邪恶的 v. 斥责, 非难
+antedate	vt. 使...提前发生, 先于, 预料 =predate n. 比实际早的日期
+incessant	adj. 不断的,不绝的,无尽的
+champion	n. 冠军, 拥护者, 勇士 vt. 保卫, 拥护
+humdrum	adj. 单调的, 乏味的 n.乏味的谈话
+debase	v. 贬低, 贬损，（使货币）贬值
+unprecedented	adj. 空前的,前所未有的
+amok	adv. （尤指在公共场所）发狂，狂暴，疯狂
+consecrate	v. 供神用, 奉献, 使神圣 adj. 被献给神的, 神圣的
+cogent	adj. 有说服力的
+dilapidated	adj. 毁坏的, 荒废的, 要塌似的 动词dilapidate的过去式和过去分词
+enmity	n. 敌意, 憎恨，不和
+sordid	adj. 肮脏的, 不干净的, 心一脏的
+rile	v. 搅浑浊,惹怒,使焦急
+Cavalier	n. 骑士, 武士 adj. 满不在乎的, 无忧无虑的
+debunk	vt. 揭穿真相, 暴露
+colossal	adj. 巨大的,异常的
+cerebral	adj. 脑的
+differentiate	vt. 识别, 使差异, 求导数, 区分, 区别对待 vi. 区别,变异
+inarticulate	adj. 不能说话的，发音不清的，不善言辞的
+apprehension	n. 理解, 忧惧, 逮捕
+incense	n. 香,香味,阿谀,恭维 vt. 对…敬香,熏香,使…激动,激怒
+raffish	adj. 名誉不好的, 无赖的, 卑鄙的，艳俗的
+screed	n. 冗长的句子, 泥水匠用的匀泥尺
+moot	n. 大会, 讨论会, 辩论会 adj. 未决议的, 抽象论的 v. 使成为无实用性的东西
+discord	n. 不调和，分歧，意见不一 vi.不一致，不协调
+remiss	adj. 怠慢的,不小心的,迟缓的
+badger	n. 獾; vt. 纠缠不休, 烦扰, 吵着要
+inundate	v. 浸水, 向泛滥, 淹没
+thoroughgoing	adj. 彻底的, 完全的
+hamper	n. 食盒,食篮 v. 阻碍,使...困累,困累
+finagle	v. 欺骗，哄骗，欺瞒
+candid	adj. 忠实的, 率直的, 坦诚的
+melancholy	n. 忧沉, 悲哀, 愁思 adj. 忧沉的, 使人悲伤的, 愁思的
+grovel	vi. 趴, 匍匐, 卑躬屈膝, 五体投地的
+eke	vt. 竭力增补，勉强维持，竭力维持
+miscreant	adj. 极恶的, 协道的, 异端的 n. 罪大恶极的人, 恶棍, 异端
+sanguine	adj. 乐天的, 自信的，红润的 n. 血红色
+pertinent	adj. 相关的, 中肯的, 切题的
+precarious	adj. 不确定的, 危险的
+exasperate	v. 使...恼怒, 激怒, 恶化
+empathetic	adj. 移情作用的, 感情移入的 =empathic
+placid	adj. 安静的, 平和的
+endemic	adj. 风土的, 地方的 n. 地方病, 风土病
+enumerate	v. 列举,计算,枚举 [计算机] 枚举
+taxing	adj. 繁重的, 费力的 动词tax的现在分词形式
+errant	adj. 错误的，脱离正途的，漫游的
+uncompromising	adj. 不让步的, 不妥协的, 强硬的
+fawn	n. 未满周岁的小鹿 v. 巴结,奉承 vi. 奉承讨好
+paucity	n. 少数,少量,缺乏
+immaterial	adj. 非物质的, 无形的, 精神的，不重要的
+quip	n. 警句,名言,讽刺 v. 说讽刺的话,嘲弄,托辞
+disparate	adj. 不同的, 全异的, 乖离的
+smattering	n. 一知半解，一点点 动词smatter的现在分词形式
+perquisite	n. 额外补贴, 临时津贴
+laborious	adj. 艰苦的, 费劲的
+powwow	n. 巫医, 议事会, 帕瓦仪式 vi. 举行帕瓦仪式
+eccentric	n. 怪人 adj. 古怪的, 反常的
+impermeable	adj. 不能渗透的, 不渗透性的
+evenhanded	adj. 公平的,公平无私的
+disheartened	adj. 沮丧的 动词dishearten的过去式和过去分词形式
+maxim	n. 格言, 箴言，普遍真理 Maxim: 马克西姆(姓氏)
+perennial	adj. 四季不断的, 继续多年的，永久的 n.多年生植物
+wanton	n. 荡妇, 水性杨花的女人，贪图享乐的人 adj. 淫乱的, 肆无忌惮的，无节制的 v. 放肆, 挥霍
+analogous	adj. 类似的
+plodding	adj. 沉重缓慢的, 单调乏味的 n. 沉重缓慢的脚步，沉闷的苦干 动词plod的现在分词
+complacent	adj. 满足的, 自满的, 得意的
+meander	n. 河流的曲折, 漫步, 迂回旅行 v. 漫谈,缓慢而弯曲地流动
+patronize	vt. 资助, 屈尊俯就地对待…, 经常光顾
+misanthrope	n. 厌恶人类的人, 不愿与人来往者
+thwart	adj. 横～ v. 反对, 阻碍 adv. 横过
+commendable	adj. 值得赞美,很好的,可钦佩的
+balk	v. 阻止, 突然停止, 退缩,拒绝 n. 障碍, 错误, 失败 n.梁木 [棒球]佯投，犯规动作,[游戏]开球区
+start	n.开始； 动身； 开动； 起点 vt.& vi.出发，启程 vt.起动； 提出（问题）； 开办； 使开始 vi.起始； 突然出现； 突然跳起； 突然涌出
+morose	adj. 郁闷的, 乖僻的，脾气不好的
+catalyst	n. 催化剂,刺激因素
+affluent	adj. 富裕的 n. 支流；富人
+emulate	vt. 效法, 尽力赶上, 仿真 [计算机] 仿真
+guffaw	vi .哄笑, 狂笑 n. 哄笑, 狂笑 vt. 大笑着说
+creditable	adj. 可称誉的, 声誉好的, 可信的
+perturb	v. 扰乱,使混乱,使心慌
+imponderable	adj. 无重量的,无法计算的,不可估价的 n. 无法测知重量的事物
+assail	vt. 猛烈攻击，言语抨击
+profuse	adj. 很多的, 丰富的，浪费的
+tawdry	adj. 廉价而俗丽的, 非常华丽的 n. 廉价而俗丽之物
+contemptuous	adj. 轻视的
+staid	adj. 固定的(沉着的)
+deliberate	adj. 故意的,深思熟虑的, 从容不迫的 vi. 仔细考虑 vt. 研讨
+cadaverous	adj. 像尸体的, 枯槁的，憔悴的
+ornate	adj. 装饰的, 华丽的
+embellish	v. 修饰, 装饰, 润色
+voracious	adj. 狼吞虎咽的, 贪婪的
+devolve	v. 委任, 移交
+qualm	n. 疑惧, 紧张不安
+quandary	n. 困惑, 迷惑, 为难
+chivalrous	adj. 骑士的，有骑士风度的
+erratic	adj.飘忽不定的； 行为古怪，反复无常； （运动或行为）不规则的
+avert	vt. 转开,避免,防止
+dog	n. 狗,卑鄙的人 vt. 尾随,跟踪
+foible	n. 小缺点, 小毛病 n. 剑刃
+beatific	adj. 祝福的, 幸福的, 快乐的，慈祥的
+precedent	adj. 在前的,在先的 n. 先例,前例
+embroiled	adj. 陷入的；卷入的
+demean	vt. 贬抑, 降低 vt. 刻意
+lethargic	adj. 迟钝的(不活泼的,冷淡的,困倦的,昏睡的)
+hodgepodge	n. 混煮, 杂烩菜 =hotchpotch
+futile	adj. 无效的, 无用的
+cornucopia	n. [希神]哺乳宙斯的羊角, 满装花果象征丰饶的羊角(通常用于绘画或雕刻中), 丰富, 丰饶
+abysmal	adj. 深不可测的, 无底的，糟透了的
+unconscionable	adj. 不合理的, 没有条理的, 过度的
+morph	(动植物的)变种, 变体 语子, 语素形式, 形素
+deride	vt. 嘲弄, 挖苦
+macabre	adj. 恐怖的, 令人毛骨悚然的, 以死亡为主题的
+buck	n. 钱,鹿皮,(鹿皮等)制物,小伙子 vt. &vi. 猛然震荡,抵制
+junta	n. 派别, 团体
+malodorous	adj. 有臭味的,不合法的
+tact	n. 机智, 手法
+elude	v. 逃避, 躲避
+whimsical	adj. 心情浮动的, 反覆无常的, 古怪的
+credulity	n. 轻信, 易信
+summit	n. 顶点;最高阶层 vi. 参加最高级会议,爬到最高点
+sentimental	adj. 感伤性的,感情脆弱的
+flush	n. 流溢, 面红, 旺盛, 冲水(尤指冲马桶), 突然萌发, (纸牌)同花顺, 清一色 [计算机] 冲洗 vi. 脸发红, 冲刷, 旺盛成长 vt. 用水冲洗, 惊起(一群鸟), 抄...老窝, 使兴奋 adj. 丰足的,齐平的,满盈的 adv. 正直地, 羞涩地
+hamstrung	残废
+ascendancy	n. 统治权, 支配力量
+peevish	adj. 易怒的, 暴躁的, 撒娇的
+smug	adj. 自以为是的,满漂亮的,俏皮的 n. 书呆子,难以交往的家伙
+stolid	adj. 迟钝的, 神经麻木的
+resignation	n. 辞职,辞呈,认命
+fete	n. 庆祝, 节日，游园会 vt. 宴请, 招待
+profusion	n. 丰多, 大量，浪费
+upbraid	v. 斥责,责骂 vt. 责备
+vindicate	vt. 维护；证明…无辜；证明…正确
+ephemeral	adj. 朝生暮死的, 生命短暂的
+ambiguous	adj. 模棱两可的
+denigrate	vt. 诋毁；使变黑；玷污
+frugal	adj. 节俭的
+nuance	n. (声音、感觉、外貌或意义等方面的) 细微差别
+gossamer	n. 小蜘蛛网, 轻而弱者, 薄纱 adj. 薄弱的, 轻飘飘的
+blatant	adj. 喧嚣的,吵闹的,俗丽的,明目张胆的
+itinerant	adj. 巡回的，流动的 n. 巡回者
+indecorous	adj. 无体的, 不合礼节的
+decorum	n. 端正, 礼貌合宜, 礼仪
+temperance	n. 1. 节制(尤指饮食)；节欲 2. 戒酒
+implausible	adj. 难信的, 不像真实的
+constituent	n. 成份,选民,构成物 adj. 构成的,组织的,有提名权的
+aesthetic	adj. 美学的,审美的,有美感的 n. (复数)审美观
+subversive	adj. 颠覆性的, 破坏性的 n. 破坏份子, 危险份子
+elucidate	v. 阐明, 说明
+vilify	v. 诽谤, 中伤
+abstruse	adj. 深奥的
+garrulous	adj. 饶舌的, 多嘴的, 啁啾不休的
+brazen	adj. 黄铜制的,厚颜无耻的 v. 使...厚颜,使...无耻
+reconcile	vt. 和解,调和,妥协 vi. 调和
+belligerent	adj. 好战的, 交战的, 交战国的 n. 交战者
+laudable	adj. 值得称赞的
+appease	v. 安抚, 缓和, 平息，姑息
+efficacious	adj. 有效的, 灵验的
+artful	adj. 狡猾的, 欺诈的, 有技巧的, 巧妙的
+tantamount	adj. 同等的, 相等的, 相当于
+hegemony	n. 霸权,领导权
+equivocal	adj. 意义不明确的, 模棱两可的
+betray	vt. 误导,出卖,背叛,泄露 vi. 证明...错误
+anomalous	adj. 不规则的,反常的
+subsume	v. 包含,包容 vt. 包含
+tempered	adj. 调节了的，缓和的，有 ... 气质的 动词temper的过去式和过去分词
+misconstrue	vt. 误解, 曲解
+amalgam	n. 汞合金，混合物
+aberration	n. 失常
+poignant	adj. 悲伤的,痛切的，严厉的, 尖锐的, 剧烈的，浓烈的
+involved	v. 涉及(包含,遍及,占用,促成,自乘) adj. 所包含的(形式复杂的)
+underscore	vt. 划线于,强调,提供伴奏乐 n. 下划线,影片伴奏乐
+wanting	adj. 不足的, 短缺的, 不在的, 不合格的 prep. 缺, 无
+undermine	vt. 暗中损害, 逐渐削弱, 在(某物)下挖洞或挖通道, 从根基处损害
+myopic	adj. 近视的，缺乏远见的
+myriad	adj. 无数的 n. 极大数量
+intrepid	adj. 无畏的, 刚毅的
+extant	adj. 现存的
+austere	adj. 严峻的, 严格的，简朴的，禁欲的，苦行的
+iconoclast	n. 毁坏宗教神像的人, 提倡打破旧习的人
+tenacious	adj. 紧粘不放的, 固执的, 不屈不挠的
+construe	v. 解释, 翻译 vt. 解释
+maladroit	adj. 笨拙的
+banality	n. 平凡, 陈腐, 陈腐之物
+derive	v. 得自, 起源, 引申于
+dispassionate	adj. 冷静的, 不带感情的，平心静气的
+didactic	adj. 教诲的, 说教的
+profligate	adj. 放荡的, 不检点的, 浪费的 n. 放荡者, 享乐者
+precipitous	adj. 险峻的 adj. 突然的, 急躁的
+foment	v.挑起，激起，煽动（事端或暴力）
+belie	vt. 掩饰, 与...不符, 使...失望
+ingratiate	vt. 逢迎, 讨好
+iconoclastic	adj. 批评传统信仰（或习俗思想）的
+qualify	vt. 取得资格,有资格,限定,描述 vi. 取得资格, 有资格
+volubility	n.流利
+idiosyncrasy	n. 特质
+bolster	n. 长枕,靠垫 vt. 支持,鼓励
+ascetic	adj. 禁欲的 n. 苦行者
+dictatorial	adj. 独裁的，专政的
+exacting	adj. 苛求的, 吃力的 动词exact的现在分词形式
+burgeon	n. 芽, 嫩枝 v. 萌芽, 发芽
+confound	vt. 使困惑, 混淆, 挫败，诅咒 vt.
+reverent	adj. 恭敬的, 虔诚的
+eschew	v. 避开,戒绝 vt. 避开
+ostentatious	adj. 装饰表面的, 浮夸的, 华美的
+contrive	vt. 1. (不顾困难地)促成某事2. 巧妙地策划；精巧地制造（如机器） vi. 1. (不顾困难而) 设法做到(正式)
+jingoism	n. 主战论, 武力外交政策,沙文主义,侵略主义
+incorrigible	adj. 无药可救的, 积习难改的, 固执的 n. 不可救药的人
+apathy	n. 缺乏感情或兴趣,冷漠
+diffident	adj. 无自信的, 客客气气的, 羞怯的
+enervate	adj.无力的，衰弱的 vt. 使无力，使衰弱
+refute	vt.驳斥，驳倒； 否认真实性
+harangue	n. 长篇大论；高谈阔论；热烈的演说 vt. 向…滔滔不绝地演讲；大声训斥 vi. 高谈阔论；慷慨陈词
+propitious	adj. 顺利的, 适合的, 吉祥的
+juxtapose	vt. 并置, 并列
+calumny	n. 诽谤, 中伤
+mundane	adj. 世俗的，平凡的；世界的，宇宙的
+antithetical	adj. 对偶的，对立的
+bucolic	adj. 牧羊的，牧民的，田园（生活）的
+germane	adj. 有密切关系的,适切的,剀切的
+rescind	n. (rescission) adj. 退还, 取消 v. 废除, 取消
+antipathy	n. 憎恶, 反感
+furtive	adj. 偷偷的
+languid	adj. 不活泼的，无精打采的，迟缓的
+lambast	vt. 狂打，谴责 =lambaste
+accolade	n. 赞美, 表扬, 推崇, 武士爵位的授与
+jovial	adj. 快活的, 高兴的, 愉快的
+platitude	n. 陈词滥调，陈腐
+impartial	adj. 公平的, 不偏不倚的
+inscrutable	adj. 难以了解的, 不能预测的
+gainsay	v. 否认
+glut	n. 供过于求，过量 v. 使充满, 过量供应 n. 狼吞虎咽 v.
+discrete	adj. 不连续的 离散的 [计算机] 分离 离散
+maintain	vt. 维持; 维修, 保养; 坚持; 断言
+scrupulous	adj. 小心谨慎的, 细心的，严谨的
+culpability	n.可责,有罪性,有过失
+imprudent	adj. 轻率的，不谨慎的
+banal	adj. 陈腐的, 平庸的
+nonplussed	adj. 不知所措的;进退维谷的
+avaricious	adj. 贪财的, 贪婪的
+soporific	adj. 催眠的, 想睡的 n. 催眠剂
+unequivocal	adj. 不含糊的, 明白的,毫无疑问的，确实的
+inveterate	adj. 根深的,成癖的,积习的
+inexorable	adj. 不为所动的, 坚决不变的
+esoteric	adj. 秘传的，神秘的，难懂的
+staunch	vt. 止住, 止血 adj. 坚固的, 坚强的, 忠实可信的，不漏水的 =stanch
+opulence	n. 富裕(丰富)
+sanction	n. 核准,处罚,约束力 v. 制定制裁规则,认许,核准
+mawkish	adj. 自作多情的,令人作呕的
+polemic	n. 争论, 论战，辩论者 adj. 争论的
+intimate	adj. 亲密的,私人的,秘密的 n. 密友 vt. 透露,暗示
+reticent	adj. 无言的, 沉默的, 谨慎的
+contingent	adj. 或许会或不会发生的,附随的,暂时的 n. 偶然的事情,份儿,分遣队
+pedestrian	adj. 徒步的,缺乏想像的 n. 行人
+heretic	n. 异教徒 adj. 异端的，异教的（=heretical)
+preclude	vt. 排除；妨碍；阻止
+espouse	vt. 支持, 赞成, 嫁娶
+admonish	vt. 劝告, 训诫, 告诫，提醒，敦促
+censure	n. 责难, 非难 v. 非难, 责备，公开谴责
+decorous	adj. 合宜的, 高雅的, 端庄的
+arcane	adj. 神秘的, 秘密的
+haughty	adj. 傲慢的
+treacherous	adj. 背信弃义的，叛逆的, 不可靠的, 危险的
+insidious	adj. 隐伏的, 暗中为害的，阴险的, 诱人上当的，（疾病等）不知不觉恶化的
+amenable	adj. 应服从的, 会接纳的, 肯服从的；经得起检验的
+edifying	adj. 有教训意味的, 有益的, 教训性的 动词edify的现在式和现在分词形式
+bumbling	adj. 笨拙的，无能的 动词bumble的现在分词形式
+denote	vt. 象征,表示
+ingenuous	adj. 坦白的, 正直的, 天真的
+eclectic	n. 折衷主义者, 折衷派的人 adj. 选择的, 折衷的
+ravenous	adj. 贪婪的(渴望的)
+entrenched	adj. (权力, 风俗等)确立的, 确定的
+incisive	adj. 敏锐的,机敏的,激烈的
+repudiate	v. 拒绝, 拒付, 拒绝履行
+ameliorate	vt. 使…改善,改良 vi. 改善,变好
+disseminate	vt. 散播, 公开, 宣传
+taciturn	adj. 沉默寡言的
+querulous	adj. 鸣不平的,发牢骚的,易怒的
+prevaricate	v. 支吾其辞,搪塞,推诿
+deferential	adj. 恭敬的
+panache	n. 羽饰, 炫耀, 假威风
+harry	vt. 掠夺, 使...苦恼, 侵掠
+forlorn	adj. 孤独的, 悲惨的, 凄凉的
+precocious	adj. 早熟的
+economical	adj. 节俭的, 经济的, 合算的
+circumscribe	vt. 在...周围画线, 限制
+conspicuous	adj. 显著的,显而易见的, 显眼的
+rustic	n. 乡下人, 村夫, 农民 adj. 乡村的, 纯朴的, 手工粗糙的
+haphazard	adj. 偶然的，随意的，杂乱无章的 adv. 杂乱地, 任意地
+askance	adv. 斜视地，怀疑地，不赞许地 =askant
+chortle	v. 开心地笑 n. 咯咯的笑
+vehement	adj. 激烈的, 猛烈的
+opaque	adj. 不透明的, 难懂的
+specious	adj. 似是而非的, 华而不实的
+delineate	v. 描画 vt. 描绘
+audacity	n. 大胆, 厚颜
+timorous	adj. 胆怯的,胆小的,羞怯的
+vacillate	vi. 游移不定, 踌躇, 犹豫
+hackneyed	adj. 不新奇的, 常见的, 陈腐的 动词hackney的过去式和过去分词形式
+incongruous	adj. 不协调的, 不一致的, 前后不一的
+quotidian	adj. 每日的, 平凡的 n. 司空见惯的事，[医]日发疟
+intransigent	adj. 非妥协性的 n. 不妥协的人
+prodigious	adj. 巨大的,奇异的 n. 奇迹
+prescience	n. 预知, 先见
+restive	adj. 焦躁不安的；难以驾驭的，不受管束的
+disaffected	adj. 不忠的，不满的 动词disaffect的过去式和过去分词形式
+gregarious	adj. 群居的，爱社交的
+winsome	adj. 引人注目的,迷人的,可爱的
+resurgent	adj. 再起的,复活的
+dilatory	adj. 缓慢的，拖拉的，拖延的
+capricious	adj. 变化无常的, 任性的
+frustrate	vt. 挫败,击败,破坏 adj. 无益的,挫败的,挫折的
+exalt	v. 赞扬, 提升，加强
+jubilant	adj. 扬声欢呼的, 喜洋洋的
+trite	adj. 平庸的,陈腐的,平凡的
+erudite	adj. 博学的
+ignoble	adj. 平民的，卑贱的, 卑鄙的, 不光彩的
+guileless	adj. 不狡猾的, 诚实的
+irrevocable	adj. 不能唤回的, 不能取消的, 不能变更的
+derivative	adj. 引出的,系出的 n. 引出之物,系出物,衍生字 n. 导数, 微商
+anomaly	n. 异常, 反常
+petulant	adj. 暴躁的, 易生气的, 难以取悦的
+fortuitous	adj. 偶然的, 意外的，幸运的
+fastidious	adj. 难取悦的, 挑剔的, 苛求的 =particular
+insolent	adj. 粗野的, 无礼的
+gauche	adj. 笨拙的, 粗鲁的，不善交际的
+audacious	adj. 大胆的,放肆的,无礼的,厚颜无耻的
+rebuke	v. 斥责, 指责，阻止 n. 指责, 谴责, 非难
+unscrupulous	adj. 肆无忌惮的,无天理的
+abstain	v. 自制, 戒绝
+mercurial	adj.（指人）反复无常的； 水银的； （指人或性质）灵活的； 易变的
+disinterested	adj. 不感兴趣的，无私欲的, 公平的 动词disinterest的过去式和过去分词形式
+demur	vi. 提出异议, 反对, 拖延 n. 异议, 反对
+exonerate	v. 免除责任,确定无罪 vt. 使免罪
+acerbic	adj. 酸的(尖酸刻薄的)
+apocryphal	adj. 伪的, 不足凭信的 Apocryphal: [圣经] 次经的
+supplant	v. 排挤,取代 vt. (用策略等)替换
+magnanimous	adj. 度量大的, 宽大的, 有雅量的，高尚的
+obscure	adj. 微暗的,难解的,不著名的,[语音学]轻音的 vt. 使...阴暗,隐藏,使...含糊,成为含糊的元音 n. 暗淡,模糊
+ostracize	v. 被流放,放逐,排斥
+craven	adj. 懦弱的, 畏缩的 n. 懦夫
+innocuous	adj. 无害的, 无毒的，无关痛痒的
+deleterious	adj. 有害的, 有毒的
+spurious	adj. 假的, 伪造的
+acrimony	n. (语言，态度等)刻薄，辛辣
+perfidy	n. 不诚实, 不忠
+venality	n. 唯利是图
+sporadic	adj. 不定时发生的, 零星的
+placate	v. 抚慰,和解,怀柔
+parochial	adj. 教区的, 地方性的, 狭小的
+sullen	adj. 愠怒的, 闷闷不乐的, 阴沉的
+culminate	v. 达到顶点或高潮, 以...告终 vi. 达到顶点 vt. 使达高潮, 使结束
+posit	v. 假定, 认为，建议 v. 安置
+arbitrary	adj. 任意的, 专制的, 武断的, 霸道的
+immutable	adj. 不可变的,不变的,不能变的
+refractory	adj. 难治的；难熔的；不听话的 n. 倔强的人；耐火物质
+frivolous	adj. 轻佻的, 妄动的, 琐碎的 adj. 无足轻重的
+castigate	v. 惩罚,苛评, 惩治, 严厉批评; 谴责
+reproach	n. 责备, 耻辱 v. 责备, 申斥
+pernicious	adj. 有害的, 恶性的
+veracious	adj. 诚实的,说真话的
+forthcoming	adj. 即将到来的
+gall	n. 胆囊, 胆汁, 苦味，厚颜无耻 v. 烦恼, 屈辱, 磨伤
+copious	adj. 丰富的, 大量的，(指作家)多产的
+egregious	adj. 恶名昭彰的, 过份的，非常的
+engender	v. 产生, 引起
+elicit	vt. 引出,诱探出
+implacable	adj. 难宽恕的, 难和解的, 执拗的
+admonitory	adj. 警告的
+truncate	vt. 切去头端，缩短，截棱成平面 adj. 切去了头，缩短了的，截形的
+sycophant	n. 马屁精
+flux	n. 流出,流量,涨潮,变迁,助熔剂 vt. 使熔化,使泻,涨 vi. 熔化
+munificent	adj. 慷慨的, 大方的
+vociferous	adj. 大声疾呼的；喧嚣的；大叫大嚷的
+mitigate	v. 镇静,缓和,减轻 v. 缓和
+exacerbate	vt. 加重(使...恶化, 激怒)
+contrition	n. 悔罪, 痛悔
+aesthete	n. 审美家 =esthete
+superfluous	adj. 多余的，过剩的
+chastise	vt. 笞责, 惩罚
+pejorative	n. 轻蔑语 adj. 贬低的, 轻蔑的
+ignominious	adj. 可耻的,不名誉的,下流的
+rudimentary	adj. 基本的(初步的, 起码的, 根本的)
+dilettante	n. 浅薄涉猎者, 业余爱好者，艺术爱好者 adj. 浅薄的，业余的
+impertinent	adj. 鲁莽的, 无礼的, 粗鲁的
+travesty	n. 滑稽模仿, 歪曲，漫画 vt. 使...滑稽化，曲解
+mollify	v. 安慰,安抚 vt. 使平息
+eradicate	v. 根除, 扑减, 根绝
+maverick	n. 没打烙印的动物；持不同意见的人 vt. 用不正当手段获取 vi. 迷途；背离 adj. 未打烙印的；行为不合常规的；特立独行的
+expound	v. 详细说明，阐述，解释
+auspicious	adj. 吉兆的, 幸运的,有利的
+circumvent	vt. 围住,绕行,用计谋应付
+prodigal	adj. 挥霍的，(物产等)丰富的，慷慨的 n. 挥霍者
+mendacity	n. 虚假，撒谎
+galvanize	v. 通电, 镀锌，刺激
+cryptic	adj. 秘密的(使用密码的, 意义深远的)
+arduous	adj. 费力的, 辛勤的, 险峻的
+transient	adj. 短暂的 n. 短期居留者,瞬间的变化
+pedantic	adj. 卖弄学问的, 假装学者的, 吹毛求疵的, 钻牛角尖的
+largess	n. 慷慨的赠与
+negligible	adj. 可以忽略的,微不足道的
+meticulous	adj. 一丝不苟的, 精确的
+torpor	n. 麻木, 无感觉, 不活泼
+prolific	adj. 多产的, 作品丰富的
+stringent	adj. 严格的, (银根)紧缩的, 变紧的
+recondite	adj. 深奥的, 难解的, 隐藏的
+tortuous	adj. 弯曲的, 曲折的，转弯抹角的
+fallacious	adj. 使人误解的, 谬误的, 不合理的
+provincial	n. 乡下人, 地方人民 adj. 省的, 地方的, 偏狭的
+duress	n. 强迫, 监禁
+venerate	vt. 尊敬, 崇敬, 崇拜
+ambivalent	adj. (对同一人或物)有矛盾看法的,或矛盾感情的, 矛盾心理的，矛盾情绪的
+predilection	n. 偏好
+lionize	vt. 崇拜, 看重 =lionise(英)
+laconic	adj. 简洁的，言简意赅的
+pragmatic	adj. 实际的, 实用主义的
+obsequious	adj. 谄媚的, 奉承的, 顺从的
+commensurate	adj. 同样大小的, 相称的
+concede	vt. 承认,给予 vi. 让步
+adamant	adj. 非常坚硬的，强硬的，固执的 n. 坚硬无比之物，硬石
+parsimonious	adj. 太节省的, 小气的
+impudent	adj. 鲁莽的, 卑鄙的
+indifference	n. 不重视, 无兴趣, 漠不关心
+eminent	adj. 著名的, 卓越的
+apathetic	adj. 缺乏感情的, 缺乏兴趣的, 无动于衷的，冷淡的
+aberrant	adj. 脱离正道的, 脱离常轨的, 变体的，畸变的
+amorphous	adj. 无定形的, 无组织的，非结晶的
+inimical	adj. 为敌的, 不友善的
+pundit	n. 权威人士，专家，博学的人
+tractable	adj. 易于管教的
+dogmatic	adj. 教条的, 武断的
+dissolution	n. 分解
+autocratic	adj. 独裁的, 专制的, 独断专行的
+bilious	adj. 胆汁的，胆汁过多的, 坏脾气的
+solecism	n. 语法错误, 谬误, 失礼
+vituperate	v. 痛斥, 辱骂
+unstinting	adj. 无限制的, 慷慨的
+invective	n. 恶言漫骂,臭骂 adj. 漫骂的,非难的,恶言的
+graft	n. 接枝, 贪污 v. 接枝, 使结合
+subterfuge	n. 遁辞, 藉口, 托辞
+truculence	n. 凶猛, 粗暴
+epigram	n. 警句, 讽刺短诗，精辟的措辞
+saturnine	adj. 沉默寡言的,忧沉的,感染铅毒的
+effervescent	adj. 冒泡的，兴奋的，沸腾的
+dovetail	v. (使)密合，(使) 吻合 n. 鸽尾榫，鸽尾结合
+Epiphany	n.顿悟,(神灵）显现 Ephiphanyn: [宗]主显节
+fell	动词fall的过去式 n. 兽皮 vt. 砍伐, 击倒 adj. 凶残的, 毁灭性的
+desiccated	adj. 干燥的, 脱水的 动词desiccate的过去式和过去分词形式
+simulacrum	n. (模糊)影像，模拟物
+insufferable	adj. 无法忍受的
+impugn	vt. 责难, 抨击, 攻击
+sartorial	adj. 裁缝匠的,缝工的,裁缝的
+inimitable	adj. 无法仿效的, 不可比拟的
+vitriol	n. 硫酸盐, 刻薄
+abrogate	vt. 废除，废止
+benighted	adj. 陷入黑暗的, 愚昧的 动词benight的过去式和过去分词形式
+umbrage	n. 阴影，不快, 怀疑, 怨恨
+imbibe	v. 饮, 吸取, 吸入
+pillory	n. 颈手枷, 示众, 嘲弄 vt. 套上枷锁，使遭人嘲笑
+brook	n. 小河,溪 v. 容忍,忍受 vt. [常用于否定句或疑问句]容忍
+lascivious	adj. 好色的, 淫荡的, 挑动情欲的
+conflagration	n. 大火灾, 大火, 突发
+immure	vt. 监禁, 禁闭
+alacrity	n. 敏捷, 活泼, 乐意
+officious	adj. 爱指手画脚的；爱发号施令的；非正式的
+paragon	n. 模范, 典型 vt. 与...比较，比得上
+puissant	adj. 强有力的, 强盛的, 有权力的
+vitriolic	adj. 硫酸的,像硫酸的,刻薄的
+desideratum	n. 所愿望之物, 迫切需要之物
+malingerer	n.装病以逃避责任者,装病的人
+bastardization	n.认定为私生子
+invidious	adj. 惹人反感的, 招人嫉妒的
+splenetic	adj. 脾脏的, 容易发怒的, 坏心眼的 n. 脾脏病患者, 坏心眼的人, 脾脏病的药
+mellifluous	adj. 如蜜般的, 流畅的 =mellifluent
+inchoate	adj. 刚开始的, 早期的，不成熟的
+effrontery	n. 厚颜无耻
+sinecure	n. 挂名职务，闲差事 n.
+empiricism	n. 经验主义, 经验论
+spartan	adj. 斯巴达的；斯巴达式的；（生活方式）简朴的，清苦的。 n. 斯巴达人；勇士
+lacerate	vt. 撕裂, 伤害 adj. 被撕裂的,裂成碎片的,受伤的
+transmute	v. 使...变形，经历变化
+pellucid	adj. 透明的,澄清的,明了的
+arrogate	v. 冒称具有...权力 vt. 霸占,冒称
+churlish	adj. 粗野的，举止粗俗的，难对付的
+cataclysm	n. 大洪水, 地震, (社会政治的)大变动
+conflate	vt. 合并
+deign	v. 屈尊,惠允(做某事) vi. 屈尊 vt. 赐于
+picayune	adj. 微小的, 心胸狭窄的 n. 西班牙铜币, 五美分铜币, 微不足道的事物
+bereft	adj. 被剥夺的, 丧失的, 失去亲人的 动词bereave的过去式和过去分词
+disabuse	vt. 解惑, 使省悟
+factious	adj. 好搞派系的, 好捣乱的
+hoodwink	v. 蒙混,欺骗 vt. 欺骗
+hoary	adj. 灰白的(古老的)
+prosaic	adj. 散文的，单调的, 无趣的
+arch	n. 拱门,弓形 vt. 使成弓形弯曲, 拱起 vi. 成弓形, 用拱连接 adj. 主要的,调皮的
+presentiment	n. 预感,预觉
+countermand	v. 撤回, 取消 vt. 下相反的命令取消
+elegiac	n. 哀歌, 挽歌 adj. 哀歌的, 挽歌的 =elegiacal
+proselytize	v. 使改宗, 劝诱改宗
+mordant	adj. 尖酸的, 辛辣的, 有腐蚀性的 n. 金属腐蚀剂, 金箔粘著剂 vt. 用媒染剂处理
+dissemble	v. 掩饰, 假装不知道
+choleric	adj. 易怒的
+ineffable	adj. 无法形容的,说不出的,不应说出的
+unprepossessing	adj. 不吸引人的
+obstreperous	adj. 吵闹的, 喧嚣的, 难管束的
+anodyne	n. 止痛药, 安慰物 adj. 止痛的，安慰的
+ineluctable	adj. 难免的, 不能逃避的
+prognostication	n. 预知, 预言, 预测，前兆
+sedulous	adj. 勤勉的, 勤苦工作的, 聚精凝神的
+palimpsest	n. (原有文字已擦去的)重写本
+conciliate	vt. 安抚, 调和 vi. 取悦于
+pariah	n. 南印度的最下级民, 贱民，被社会遗弃者
+flag	n. 旗标,旗子,信号旗 vt. 打旗号 vi. 无力地下垂,减退
+noisome	adj. 恶臭的, 令人不快的，有害的
+pontificate	n. (教皇的)职位或任期 vi. 武断地或自封为权威地谈论某事物
+ebullient	adj. 沸腾的, 热情洋溢的
+unassailable	adj. 攻不破的, 无争论余地的, 无懈可击的
+chimera	n. 神话怪物，妄想 n. 嵌合体 Chimera: [希神]奇美拉（喷火女怪）
+impute	vt. 归罪, 使负责, 嫁祸
+enjoin	vt. 命令，嘱咐，禁止
+puerile	adj. 青春期的，孩子气的，未成熟的
+phantasmagorical	adj. 幻影的; 变化无常的
+untoward	adj. 麻烦的, 不利的，不适当的，失控的 adj. [古]笨拙的，难堪的
+chagrin	n. 懊恼 vt. 使...懊恼
+dolorous	adj. 忧伤的, 悲痛的
+callow	adj. 年轻而无经验的,(鸟)未生羽毛的
+contentious	adj. 好争吵的,爱争论的,有异议的
+inure	v. 使...习惯
+tendentious	adj. 有目的的，有倾向的，有偏见的 =tendencious
+anathema	n. 咒逐, 革出教门, 被咒逐的人(物) n. 令人极其讨厌的事
+cupidity	n. 贪心, 贪婪
+appurtenant	adj.隶属的,附属的 n.从属物
+importune	v. 强求, 硬要, 胡搅蛮缠 adj. 胡搅蛮缠的
+duplicity	n. 口是心非,不诚实,表里不一
+panegyric	n. 赞辞, 夸大的颂词
+untenable	adj. 不能防守的, 不能维持的, 支持不住的
+expansive	adj. 易膨胀的, 易扩张的
+veritable	adj. 真实的, 确实的, 真正的
+inviolate	adj. 未亵渎的, 未受侵犯的, 无污点的，纯洁的
+exemplar	n. 模范, 榜样
+turpitude	n. 奸恶, 卑鄙, 背德
+extrapolate	v. 预测, 推测
+embryonic	adj. 胚胎的, 萌芽期的
+adjudicate	vt. 判决，裁定 vi. 充当裁判
+plucky	adj. 勇敢的
+lachrymose	adj. 爱哭的, 引人落泪的，哀痛的
+raillery	n. 善意的嘲弄，逗趣
+palaver	n. 小题大做，大惊小怪
+cow	n. 母牛, 母兽 vt.恐吓
+venial	adj. 可原谅的，(错误等)轻微的
+impetuous	adj. 冲动的, 猛烈的, 轻率的
+truculent	adj. 野蛮的, 粗野的, 残酷的
+expunge	v. 擦掉, 删掉, 除去
+discursive	adj. 散漫的, 无层次的
+anemic	adj.贫血的,患贫血症的 adj.无活力的 =anaemic(英)
+derelict	adj. 被抛弃了的,无主的,玩忽职守的 n. 遗弃物,被遗弃的人,玩忽职守者
+anachronism	n. 时代错误, 不合潮流的人(物)
+irrefutable	adj. 不能反驳的,不能驳倒的
+phlegmatic	adj. 冷静的, 冷淡的
+self-effacing	adj. 不出风头的，不喜出风头的，谦让的，谦卑的
+apothegm	n. 格言
+equivocate	vi. 说模棱两可的话，支吾其词
+malapropism	n. 词语荒唐误用(指误用发音近似而意义不通的词语)
+stalwart	n. 顽强的人，健壮的人 adj. 高大结实的, 顽强的
+ponderous	adj. 笨重的, 笨拙的，乏味的
+gambit	n. 以取得优势的开局棋法,开始,话题
+Schadenfreude	n. 幸灾乐祸
+dissipate	vt. 使...消散(浪费)
+limpid	adj. 清澈的，清晰的
+exegesis	n. 解释, 注释
+jaundiced	adj. 患黄疸病的, 有偏见的, 嫉妒的
+martinet	n. 要求严格服从纪律的人
+enormity	n. 暴行, 极恶
+canard	n. 谣言, 误传 n. 鸭式飞机
+internecine	adj. 两败俱伤的
+flummox	v. 使混乱, 背诵出错
+penurious	adj. 吝啬的, 缺乏的，贫困的
+objurgate	vt. 怒斥, 谴责
+factitious	adj. 人为的, 不自然的, 人工的
+dispensation	n. 分配, 施与，分配物, [宗]特许，豁免
+asperity	n. 严酷，严厉，粗暴
+percipient	adj. 洞察力强的 n. 洞察者
+pith	n. 精髓, 要点，（木）髓 vt. 去髓，破坏脊髓
+sagacious	adj. 聪明的, 睿智的
+artless	adj. 天真的；朴实的；无虚饰的
+peremptory	adj. 专横的, 不容反抗的，断然中止的
+indigent	adj. 贫穷的, 贫困的，欠缺的
+trenchant	adj. 锐利的, 尖刻的, 苛刻的，清晰的
+Byzantine	adj.东罗马帝国的,拜占庭式的 n.拜占庭人,拜占庭派的建筑师,画家
+assiduous	adj. 勤勉的, 刻苦的
+fractious	adj. 易怒的, 脾气不好的, 难以对待的
+zeitgeist	n. (德语)时代精神, 时代思潮
+sardonic	adj. 讥讽的，嘲笑的, 冷笑的
+charlatan	n. 冒充内行者，骗子
+pecuniary	adj. 金钱上的, 金钱的
+feckless	adj. 没精神的, 软弱的, 无用的，不负责任的
+solicitude	n. 担心，焦虑, 渴望 （复）solicitudes：担心的事情
+browbeat	v. (用神情、言词) 威吓,严词厉色地斥责 vt. 吓唬,威逼
+tempestuous	adj. 有暴风雨的, 暴乱的
+exorbitant	adj. (价格等)过高的，不合法的
+moribund	adj. 垂死的，即将结束的
+doughty	adj. 强的, 勇敢的, 刚强的
+lampoon	n. 讽刺文章 v. 讽刺 vt. 嘲讽
+stultify	vt. 使...显得荒谬可笑(使...无价值,使...无效)
+attenuate	v. 变细，变薄，稀释，变弱，衰减 adj. 细的，薄的，减少的
+raconteur	n. 善于讲故事的人
+languish	v. 变得衰弱无力，失去活力，憔悴，被冷落，苦思，表现出惹人爱怜的倦态
+unimpeachable	adj. 无懈可击的, 无可指责的, 无过失的
+proscribe	vt. 不予法律保护(排斥)
+concomitant	adj. 相伴, 附随的, 共存的 n. 附随物
+sententious	adj. 简洁的, 警句的, 富于格言的
+complaisant	adj. 彬彬有礼的,殷勤的,柔顺的
+jejune	adj. 空洞的, 不成熟的，缺乏营养的
+incontrovertible	adj. 无争论之余地的,无疑的,明白的
+hail	n. 冰雹,致敬,招呼 vt. 向...欢呼,致敬,招呼 vi. 下雹 int. 万岁,欢迎
+antic	n. 古怪、滑稽的动作和行为 n. 小丑 adj. 古怪的, 滑稽的
+demonstrative	adj. 易流露感情的，喜怒形于色的 adj. [语]指示的
+appropriate	adj. 适当的, 相称的 vt. 拨出(款项); 占用
+machinate	v. 图谋, 策划
+recapitulation	n. 重述要点, 概括, 摘要，[音乐]再现部，[生物]重演(性）发生
+ersatz	adj. 代用的, 假的 n. 代用品
+chary	adj.小心的； 谨慎的； 节省的； 舍不得的
+denouement	n. (小说的)结尾, 结局
+defray	v. 支付,支出
+vicissitude	n. 变迁；盛衰；变化无常；变迁兴衰
+oblique	adj. 间接的,斜的，拐弯抹角的，不光明正大的 n. 倾斜物 [解]斜肌 v. 倾斜
+peripatetic	n. 巡行者, 巡游 adj. 巡游的，漫游的 Peripatetic: n. 亚里士多德信徒 adj. 亚里士多德学派的
+apotheosis	n. 尊为神,封神,神化
+surfeit	n. 过食，过量 v. 暴食，过分沉溺
+panacea	n. 万灵药，灵丹妙药
+hagiography	n. 圣徒传, 圣徒言行录
+impecunious	adj. 没有钱的, 身无分文的, 贫穷的
+nonchalant	adj. 不关心的,冷淡的,平静的
+bridle	n. 马笼头，约束 vt. 给...套笼头，控制（感情等） vi. 动怒
+malfeasance	n. 不正当,不法行为,坏事
+approbatory	adj.承认的,认可的,赞赏的
+imbroglio	n. 纷乱,纠葛,纷扰
+recrimination	n. 反控告, 反责
+grandiloquent	adj. 夸张的, 夸大的, 浮夸的
+hedge	n. 树篱,防止财产损失的方法 vt. 包围,限制 vi. 种树篱,拐弯抹角,保护自己不受财产损失 adj. 树篱的,篱笆边的
+punctilious	adj. 精密细心的, 一丝不苟的，谨小慎微的
+recrudesce	vi. 复发
+protean	adj. 多变的,千变万化的,变化不定的
+bemoan	vt. 悲叹，为…惋惜, 认为遗憾
+base	n. 基底,（支持、收入、力量等的）基础 vt. 以...作基础 adj. 卑鄙的；不道德的
+perfunctory	adj. 草率的, 敷衍的
+inequity	n. 不公平,不公正
+besotted	adj. 愚蠢的, 糊涂的, 醉的 动词besot的过去式和过去分词
+prolixity	n.冗长,罗嗦
+fecund	adj. 多产的, 丰饶的, 肥沃的
+precipitate	vt. 使...陷入,促成,使...沉淀, 猛摔 n. 沉淀物, 冷凝物 adj. 仓促的, 迅猛的, 感情用事的
+reprisal	n. 报复, 报仇, 报复性劫掠
+diminutive	adj. 小的, 小型的, 变小的 n. 小的人（物）, [语]小词缀，昵称
+ossify	v. 变骨,骨化,使硬化 v. 骨化,硬化,变无情
+disingenuous	adj. 不老实的, 不诚实的, 虚伪的
+diatribe	n. 恶骂, 诽谤
+Catholic	adj. 天主教的, (catholic)普遍的, 广泛的 n. 天主教徒
+inanity	n. 空虚，无聊，无意义
+histrionic	adj.做作的； 过分戏剧化的； 不自然的； <文>表演的
+despot	n. 暴君, 专制者
+crystallize	v.（使）结晶, （使）具体化, （使）成蜜饯
+coterminous	adj. 毗连的, 有共同边界的 =conterminous
+mendicant	adj. 行乞的 n. 乞丐，托钵僧
+expurgate	vt. 净化, 删去
+broadside	n. 机身侧部, 宽边, 全部舷炮 adv. 舷侧着, 无目标地, 胡乱地 adj. 用侧面的 vt. 用整个侧面撞击或碰撞
+intimation	n. 暗示, 通知
+loath	adj. 不愿意的, 勉强的
+excoriate	vt. 撕去皮, 严厉批评
+gaffe	n. 过失, 失态, 出丑
+semblance	n. 类似(外观,假装)
+blinkered	adj. （看法、态度、方法）狭隘的，有偏见的；（人）心胸狭窄的
+celerity	n. 敏捷, 快速
+hector	vt.& vi.吓唬，欺凌 n.暴徒，威吓者，作威作福的人
+capitulate	vi. 有条件投降
+sangfroid	n. 冷静, 泰然, 沉著
+probity	n. 诚实, 廉洁, 正直
+chauvinism	n. 沙文主义，盲目的爱国心，偏见
+beg	vt. 乞讨，恳求，合理需要 vi. 行乞，乞求 abbr. （begin）的缩写，开始
+magisterial	adj. 有权威的；专横的；官吏的
+hubris	n. 傲慢, 骄傲
+crestfallen	adj. 垂头丧气的, 意气沮丧的, 气馁的
+cede	v.割让(领土，权利) v. 放弃
+atavism	n. 隔代遗传，返租现象，返祖体
+mettlesome	adj. 精神抖擞的
+philistine	adj. 市侩的 n. 非利士人，平庸的人
+kowtow	n. &lt;汉&gt;磕头 vi. 叩头
+rarefied	adj. 稀薄的，极高的 动词rarefy的过去式和过去分词形式
+bromide	n. [化]溴化物 n. 陈词滥调 n. 令人讨厌的人，平庸的人
+vaunted	adj. 吹牛的, 吹嘘的 动词vaunt的过去式和过去分词形式
+obtuse	adj. 钝的, 不尖的, 圆头的
+quail	n. 鹌鹑 vi. 畏缩，胆怯
+modicum	n. 少量，一小份
+redoubtable	adj. 可怕的，引起恐慌的，可敬畏的
+verisimilitude	n. 逼真, 逼真的事物
+portentous	adj. 前兆的, 不吉的 adj. 令人惊讶的，难以置信的 adj. 自大的，摆架子的
+litany	n. 连祷 冗长的陈述
+eponym	n. 名组，名字被用于命名地方的人
+apogee	n. 最高点,顶点,远地点
+equitable	adj. 公平的, 公正的
+remonstrate	v. 表示异议, 抗议, 责备，反对
+flippant	adj. 轻率的, 没礼貌的 adj. [古]能说会道的
+viable	adj. 能生存的,可行的,能居住的的
+lugubrious	adj. 可怜的,悲惨的,悲哀的
+improvident	adj. 不顾将来的，无远见的, 不节约的, 不经济的
+rapprochement	n. (友好关系)建立，(友好关系)恢复
+temerity	n. 鲁莽，冒失；蛮勇
+arrant	adj. 彻头彻尾的，极端的
+complicit	adj. 同谋的, 串通一气的
+turgid	adj. 浮肿的, 浮夸的
+debonair	adj. 高兴的(心情愉快的) , 殷勤的， 温文尔雅的
+hobble	v. 蹒跚,跛行 vi. 跛行
+evanescent	adj. 逐渐消失的,容易消散的,会凋零的
+meteoric	adj. 流星的, 昙花一现的，大气的
+apposite	adj. 适当的, 恰切的
+tyro	n. 初学者, 生手, 新手 =tiro
+afford	vt. 提供,负担得起的(后果,损失等),给予
+bowdlerize	vt. 删去，删节
+hauteur	n. 傲慢
+parvenu	n. 暴发户, 新贵
+gumption	n. 机智，老练；勇气，胆力
+halcyon	n. 想像中的一种鸟, 形同翠鸟, 翠鸟 adj. 宁静的, 平稳的
+ethereal	adj. 轻巧的，飘逸的，精致的，飘渺的 adj. [化学]乙醚的
+corollary	n. [数］系理, 推论
+infelicitous	adj. 不幸的, 不吉的, 不适当的
+maudlin	adj. 容易流泪的,感伤的,醉后好哭的 n. 易流泪
+provident	adj. 有先见之明的,有远虑的,节俭的
+baleful	adj. 有害的, 恶意的
+execrate	vt. 憎恶, 咒骂，厌恶
+unflappable	adj. 镇定的, 从容不迫的
+enthrall	v. 迷住，迷惑, 奴役
+nadir	n. 最低点，[天文学]天底
+quisling	n. 卖国贼, 内奸
+artifice	n. 技巧, 巧妙, 诡计
+insouciance	n. 无忧无虑,逍遥自在,漫不经心
+apostate	n. 背教者, 变节者, 脱党者 adj. 背教的, 变节的, 脱党的
+inviolable	adj. 不可侵犯的, 不可亵渎的
+firebrand	n. 火把, 在燃烧的木柴, 煽动者
+cosset	n. 亲手饲养的小动物,宠儿 v. 宠爱,珍爱,溺爱
+enamored	adj. 倾心的, 被迷住的
+facile	adj. 不费力的，温和的, 容易做到的
+overweening	adj. 自负的,过于自信的
+abjure	v. 发誓放弃
+bristle	n. 刚毛, 猪鬃；vi.（背部或颈部的毛因惊吓或发怒）竖起，耸起；vt.（对某人的言行）大为恼怒；被激怒
+unpropitious	adj. 不吉利的, 恶运的
+impervious	adj. 不能渗透的, 不为所动的
+surreptitious	adj. 鬼鬼祟祟的, 保密的
+obtain	vt. 获得, 得到 vi. 通用, 流行, 存在
+palatable	adj. 美味的, 愉快的
+nettlesome	adj. 令人激恼的, 烦人的, 易怒的
+perspicacious	adj. 颖悟的, 聪明的, 有洞察力的
+imperious	adj. 傲慢的, 专横的
+gerrymander	vt. 为己党利益擅改选区 n. 不公正划分选区
+sybarite	(C)(文语)沉于奢侈逸乐者,爱奢侈享乐的人
+pyrrhic	adj. 付出极大代价而获得的
+juggernaut	n. 摧毁一切的强大力量，重型卡车
+jingoist	n.沙文主义者,侵略主义者
+aplomb	n. 自信，沉着, 镇静
+patent	n. 专利权,执照,专利品 adj. 专利的,显著的,新奇的 v. 取得...的专利权,请准专利
+curmudgeon	n. 脾气暴躁的人，乖戾的老人 n.
+estimable	adj. 可估计的，值得尊敬的 adj.
+squelch	vi. 压扁(发出格喳格喳声) n. 格喳格喳声(静噪电路)
+propitiate	vt. 慰抚, 安抚, 和解
+row	n. 排,船游,吵闹 vt. 划船,成排 vi. 划船,吵架
+primacy	n. 第一, 首位, 卓越 n. （天主教）大主教的职位
+decry	v. 责难, 诽谤
+quixotic	adj. 唐吉诃德式的, 狂想家的
+encumber	v. 妨害, 阻害
+untrammeled	adj. 自由自在的, 无阻碍的 =untrammelled
+arriviste	n.暴发户,一心想发迹的人
+mulct	n. 罚金 vt. 处以罚金, 诈取
+promulgate	vt. 发布,公布,发表
+supercilious	adj. 目中无人的, 高傲的
+solicitous	adj. 热心的,热切想要...的,热切期望
+doleful	adj. 悲哀的, 寂寞的, 阴沉的
+ribald	adj. 说话猥亵的, 下流的 n. 说话猥亵的人
+exiguity	n. 些须, 微小
+illustrious	adj. 著名的, 杰出的

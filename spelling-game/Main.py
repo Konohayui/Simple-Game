@@ -10,7 +10,7 @@ def loadWords():
     wordList = {}
     for line in FILE:
         w = line.split(None, 1)[0]
-        mean = line.split(None, 1)[1:]
+        mean = line.split(None, 1)[1]
         wordList[w] = mean
     print(len(wordList))
     return wordList

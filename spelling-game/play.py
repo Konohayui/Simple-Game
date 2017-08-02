@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 16:07:15 2017
+
+@author: yu
+"""
+
 from Main import *
 
 def playGame(wordList):
@@ -5,15 +12,17 @@ def playGame(wordList):
     score = 0
     correct = 0
     while command != 'e':
-        answer = getWord(wordList)    
+        word = getWord(wordList)
+        answer = word[0]
+        meaning = word[1]
         test = deleteLetters(answer)
+        print(meaning)
         attempt = input('Enter your answer: ')
         if isMatch(answer, attempt):
             score += 10
             correct += 1
             print('This is correct! Total number of correct word is', correct)
             print('Your score is', score)
-            wordList.remove(answer)
             if len(wordList) == 0:
                 print('You got all words!')
                 command = 'e'
@@ -23,6 +32,7 @@ def playGame(wordList):
             print('Your score is', score)
         command = input('Press any key to continue/e to end the game: ')
     print('Game Over!')
+    
 if __name__ == '__main__':
     wordList = loadWords()
     playGame(wordList)

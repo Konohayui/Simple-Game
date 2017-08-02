@@ -1,23 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 14:13:30 2017
+
+@author: yu
+"""
+
 import random
 import numpy
 
-WordList_File = "GRE_wordlist.txt"
+#WordList_File = "GRE_wordlist.txt"
+File_name = 'Magoosh_GRE_word_list.txt'
 
 def loadWords():
     print('Loading word list from file...')
-    FILE = open(WordList_File, 'r')
-    wordList = []
+    FILE = open(File_name, 'r')
+    wordList = {}
     for line in FILE:
-        wordList.append(line.strip().lower())
+        w = line.split(None, 1)[0]
+        mean = line.split(None, 1)[1:]
+        wordList[w] = mean
     print(len(wordList))
     return wordList
 
 def getWord(wordList):
-    word = random.choice(wordList)
-    if len(word) > 0:
-        return word
-    else:
-        return getWord(wordList)
+    word = random.choice(list(wordList))
+    return word, wordList[word]
 
 def getSpace(L):
     if L == 1:
@@ -47,5 +54,8 @@ def isMatch(answer, attempt):
         return True
     else:
         return False
-    
-    
+
+# texting    
+#if __name__ == '__main__':
+#    wordList = loadWords()
+#    print(len(getWord(wordList)))

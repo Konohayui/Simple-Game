@@ -9,9 +9,10 @@ def loadWords():
     FILE = open(File_name, 'r')
     wordList = {}
     for line in FILE:
-        w = line.split(None, 1)[0]
-        mean = line.split(None, 1)[1]
-        wordList[w] = mean
+        vocab = line.split(None, 1)
+        word = vocab[0]
+        meaning = vocab[1]
+        wordList[word] = meaning
     print(len(wordList))
     return wordList
 

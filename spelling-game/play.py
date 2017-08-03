@@ -14,7 +14,7 @@ def playGame(wordList):
         if isMatch(answer, attempt):
             score += 10
             correct += 1
-            print('This is correct! Total number of correct word is', correct)
+            print('This is correct! Total number of correct word:', correct)
             print('Your score is', score)
             wordList.pop(answer, None)
             if len(wordList) == 0:

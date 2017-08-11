@@ -1,14 +1,32 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 14:13:30 2017
+
+@author: yu
+"""
+
 import random
 import numpy
 
 #WordList_File = "GRE_wordlist.txt"
-File_name = 'Magoosh_GRE_word_list.txt'
+MGRE = 'Magoosh_GRE_word_list.txt'
+TOEFL_basic = 'TOEFL_word_basic.txt'
+TOEFL_medium = 'TOEFL_word_medium.txt'
+TOEFL_advanced = 'TOEFL_word_advanced.txt'
+
+def selectBook(Books):
+    print('Books: ')
+    print('0: Magoosh_GRE; 1: TOEFL_word_basic; 2: TOEFL_word_medium; 3: TOEFL_word_advanced')
+    book = input('Enter a number to select a book to play: ')
+    return Books[int(book)]
 
 def loadWords():
+    Books = [MGRE, TOEFL_basic, TOEFL_medium, TOEFL_advanced]
+    Book_name = selectBook(Books)
     print('Loading word list from file...')
-    FILE = open(File_name, 'r')
+    Book = open(Book_name, 'r')
     wordList = {}
-    for line in FILE:
+    for line in Book:
         vocab = line.split(None, 1)
         word = vocab[0]
         meaning = vocab[1]

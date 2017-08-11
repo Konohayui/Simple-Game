@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 16:07:15 2017
+
+@author: yu
+"""
+
 from Main import *
 
 def playGame(wordList):
@@ -14,7 +21,7 @@ def playGame(wordList):
         if isMatch(answer, attempt):
             score += 10
             correct += 1
-            print('This is correct! Total number of correct word:', correct)
+            print('This is correct! Total number of correct words:', correct)
             print('Your score is', score)
             wordList.pop(answer, None)
             if len(wordList) == 0:

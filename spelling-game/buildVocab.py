@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Aug  1 17:19:06 2017
+
+@author: yu
+"""
 import random
 
 File_name = 'Magoosh_GRE_word_list.txt'

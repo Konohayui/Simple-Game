@@ -229,7 +229,7 @@ dilapidated	adj. 毁坏的, 荒废的, 要塌似的 动词dilapidate的过去式和过去分词
 enmity	n. 敌意, 憎恨，不和
 sordid	adj. 肮脏的, 不干净的, 心一脏的
 rile	v. 搅浑浊,惹怒,使焦急
-Cavalier	n. 骑士, 武士 adj. 满不在乎的, 无忧无虑的
+cavalier	n. 骑士, 武士 adj. 满不在乎的, 无忧无虑的
 debunk	vt. 揭穿真相, 暴露
 colossal	adj. 巨大的,异常的
 cerebral	adj. 脑的
@@ -338,7 +338,7 @@ credulity	n. 轻信, 易信
 summit	n. 顶点;最高阶层 vi. 参加最高级会议,爬到最高点
 sentimental	adj. 感伤性的,感情脆弱的
 flush	n. 流溢, 面红, 旺盛, 冲水(尤指冲马桶), 突然萌发, (纸牌)同花顺, 清一色 [计算机] 冲洗 vi. 脸发红, 冲刷, 旺盛成长 vt. 用水冲洗, 惊起(一群鸟), 抄...老窝, 使兴奋 adj. 丰足的,齐平的,满盈的 adv. 正直地, 羞涩地
-hamstrung	残废
+hamstring	v. 割断  n. 腿筋
 ascendancy	n. 统治权, 支配力量
 peevish	adj. 易怒的, 暴躁的, 撒娇的
 smug	adj. 自以为是的,满漂亮的,俏皮的 n. 书呆子,难以交往的家伙
@@ -660,7 +660,7 @@ epigram	n. 警句, 讽刺短诗，精辟的措辞
 saturnine	adj. 沉默寡言的,忧沉的,感染铅毒的
 effervescent	adj. 冒泡的，兴奋的，沸腾的
 dovetail	v. (使)密合，(使) 吻合 n. 鸽尾榫，鸽尾结合
-Epiphany	n.顿悟,(神灵）显现 Ephiphanyn: [宗]主显节
+epiphany	n.顿悟,(神灵）显现 Ephiphanyn: [宗]主显节
 fell	动词fall的过去式 n. 兽皮 vt. 砍伐, 击倒 adj. 凶残的, 毁灭性的
 desiccated	adj. 干燥的, 脱水的 动词desiccate的过去式和过去分词形式
 simulacrum	n. (模糊)影像，模拟物
@@ -781,7 +781,7 @@ malapropism	n. 词语荒唐误用(指误用发音近似而意义不通的词语)
 stalwart	n. 顽强的人，健壮的人 adj. 高大结实的, 顽强的
 ponderous	adj. 笨重的, 笨拙的，乏味的
 gambit	n. 以取得优势的开局棋法,开始,话题
-Schadenfreude	n. 幸灾乐祸
+schadenfreude	n. 幸灾乐祸
 dissipate	vt. 使...消散(浪费)
 limpid	adj. 清澈的，清晰的
 exegesis	n. 解释, 注释
@@ -803,7 +803,7 @@ artless	adj. 天真的；朴实的；无虚饰的
 peremptory	adj. 专横的, 不容反抗的，断然中止的
 indigent	adj. 贫穷的, 贫困的，欠缺的
 trenchant	adj. 锐利的, 尖刻的, 苛刻的，清晰的
-Byzantine	adj.东罗马帝国的,拜占庭式的 n.拜占庭人,拜占庭派的建筑师,画家
+byzantine	adj.东罗马帝国的,拜占庭式的 n.拜占庭人,拜占庭派的建筑师,画家
 assiduous	adj. 勤勉的, 刻苦的
 fractious	adj. 易怒的, 脾气不好的, 难以对待的
 zeitgeist	n. (德语)时代精神, 时代思潮
@@ -871,7 +871,7 @@ diminutive	adj. 小的, 小型的, 变小的 n. 小的人（物）, [语]小词缀，昵称
 ossify	v. 变骨,骨化,使硬化 v. 骨化,硬化,变无情
 disingenuous	adj. 不老实的, 不诚实的, 虚伪的
 diatribe	n. 恶骂, 诽谤
-Catholic	adj. 天主教的, (catholic)普遍的, 广泛的 n. 天主教徒
+catholic	adj. 天主教的, (catholic)普遍的, 广泛的 n. 天主教徒
 inanity	n. 空虚，无聊，无意义
 histrionic	adj.做作的； 过分戏剧化的； 不自然的； <文>表演的
 despot	n. 暴君, 专制者

@@ -59,6 +59,8 @@ def check(options, attempt, definition):
     
 def play(wordList):
     command = input('Press any key to start/e to end the game: ')
+    score = 0
+    correct_answer = 0
     while command != 'e':
         word = chooseWord(wordList)
         answer = word[0]
@@ -67,9 +69,13 @@ def play(wordList):
         display_options(options, answer)
         attempt = input('Enter A, B, C, D : ')
         if check(options, attempt, definition):
-            print('This is correct!')
+            score += 10
+            correct_answer += 1
+            print('This is correct! Total score is ', score)
+            print('You answer ', correct_answer, 'answers!')
         elif not check(options, attempt, definition):
-            print('This is not correct!')
+            score -= 1
+            print('This is not correct! Total score is ', score)
             print('The correct answer is ', definition)
         command = input('Press any key to continue/e to end the game: ')
     print('Game Over!')

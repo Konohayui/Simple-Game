@@ -83,4 +83,4 @@ def play(wordList):
 # testing    
 if __name__ == '__main__':
     wordList = loadWords()
-    print(play(wordList))
+    play(wordList)

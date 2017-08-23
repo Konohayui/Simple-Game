@@ -67,7 +67,7 @@ def isMatch(answer, attempt):
     else:
         return False
 
-# texting    
+# testing    
 #if __name__ == '__main__':
 #    wordList = loadWords()
 #    print(len(getWord(wordList)))

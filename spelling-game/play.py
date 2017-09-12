@@ -11,6 +11,7 @@ def playGame(wordList):
     command = input('Press any key to start/e to end the game: ')
     score = 0
     correct = 0
+    incorrect_attempt = []
     while command != 'e':
         word = getWord(wordList)
         answer = word[0]
@@ -31,9 +32,20 @@ def playGame(wordList):
             score -= 1
             print('This is incorrect! The correct answer is', answer)
             print('Your score is', score)
+            incorrect_attempt.append(answer)
         command = input('Press any key to continue/e to end the game: ')
-    print('Game Over!')
-    
+     
+    print('Want to review?')
+    re_command = input('Y for review section; otherwise, stop: ')
+    if re_command == 'Y':
+        print('Starting review section...')
+        while len(incorrect_attempt) != 0:
+            re_section = review(incorrect_attempt, wordList)
+            incorrect_attempt = re_section
+        print('Finish!')
+    else:
+        print('Game Over!')
+        
 if __name__ == '__main__':
     wordList = loadWords()
     playGame(wordList)

@@ -14,15 +14,12 @@ TOEFL_basic = 'TOEFL_word_basic.txt'
 TOEFL_medium = 'TOEFL_word_medium.txt'
 TOEFL_advanced = 'TOEFL_word_advanced.txt'
 
-def selectBook(Books):
+def loadWords():
+    Books = [MGRE, TOEFL_basic, TOEFL_medium, TOEFL_advanced]
     print('Books: ')
     print('0: Magoosh_GRE; 1: TOEFL_word_basic; 2: TOEFL_word_medium; 3: TOEFL_word_advanced')
     book = input('Enter a number to select a book to play: ')
-    return Books[int(book)]
-
-def loadWords():
-    Books = [MGRE, TOEFL_basic, TOEFL_medium, TOEFL_advanced]
-    Book_name = selectBook(Books)
+    Book_name = Books[int(book)]
     print('Loading word list from file...')
     Book = open(Book_name, 'r')
     wordList = {}
@@ -67,6 +64,16 @@ def isMatch(answer, attempt):
     else:
         return False
 
+def review(incorrect_attempt, wordList):
+    word = random.choice(list(incorrect_attempt))
+    meaning = wordList[word]
+    re_test = deleteLetters(word)
+    print(meaning)
+    reattempt = input('Enter your answer: ')
+    if isMatch(word, reattempt):
+        print('This is correct!')
+        incorrect_attempt.remove(word)
+    return incorrect_attempt
 # testing    
 #if __name__ == '__main__':
 #    wordList = loadWords()

@@ -58,14 +58,14 @@ def isMatch(answer, attempt):
         return False
 
 def review(incorrect_attempt, wordList):
-    answer = random.choice(list(incorrect_attempt))
-    meaning = wordList[word]
-    re_test = deleteLetters(word)
+    answer = random.choice(incorrect_attempt)
+    meaning = wordList[answer]
+    re_test = deleteLetters(answer)
     print(meaning)
     reattempt = input('Enter your answer: ')
     if isMatch(answer, reattempt):
         print('This is correct!')
-        incorrect_attempt.remove(word)
+        incorrect_attempt.remove(answer)
     return incorrect_attempt
 
 # testing    

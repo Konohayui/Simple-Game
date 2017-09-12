@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 31 16:07:15 2017
-
-@author: yu
-"""
-
 from Main import *
 
 def playGame(wordList):

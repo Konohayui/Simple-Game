@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 31 14:13:30 2017
-
-@author: yu
-"""
-
 import random
 import numpy
 
@@ -65,15 +58,16 @@ def isMatch(answer, attempt):
         return False
 
 def review(incorrect_attempt, wordList):
-    word = random.choice(list(incorrect_attempt))
+    answer = random.choice(list(incorrect_attempt))
     meaning = wordList[word]
     re_test = deleteLetters(word)
     print(meaning)
     reattempt = input('Enter your answer: ')
-    if isMatch(word, reattempt):
+    if isMatch(answer, reattempt):
         print('This is correct!')
         incorrect_attempt.remove(word)
     return incorrect_attempt
+
 # testing    
 #if __name__ == '__main__':
 #    wordList = loadWords()

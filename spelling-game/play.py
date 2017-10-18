@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 16:07:15 2017
+
+@author: yu
+"""
+
 from Main import *
 
 def playGame(wordList):
@@ -29,8 +36,8 @@ def playGame(wordList):
         command = input('Press any key to continue/e to end the game: ')
      
     print('Want to review?')
-    re_command = input('Y for review section; otherwise, stop: ')
-    if re_command == 'Y':
+    re_command = input('y for review section; otherwise, stop: ')
+    if re_command == 'y':
         print('Starting review section...')
         while len(incorrect_attempt) != 0:
             re_section = review(incorrect_attempt, wordList)

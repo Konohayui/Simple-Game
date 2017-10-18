@@ -1,20 +1,31 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 31 14:13:30 2017
+
+@author: yu
+"""
+
 import random
 import numpy
 
 #WordList_File = "GRE_wordlist.txt"
 MGRE = 'Magoosh_GRE_word_list.txt'
+Yaoniming = '再要你命3000.txt'
 TOEFL_basic = 'TOEFL_word_basic.txt'
 TOEFL_medium = 'TOEFL_word_medium.txt'
 TOEFL_advanced = 'TOEFL_word_advanced.txt'
 
 def loadWords():
-    Books = [MGRE, TOEFL_basic, TOEFL_medium, TOEFL_advanced]
+    Books = [MGRE, Yaoniming, TOEFL_basic, TOEFL_medium, TOEFL_advanced]
     print('Books: ')
-    print('0: Magoosh_GRE; 1: TOEFL_word_basic; 2: TOEFL_word_medium; 3: TOEFL_word_advanced')
+    print('0: Magoosh_GRE; 1: 再要你命3000; 2: TOEFL_word_basic; 3: TOEFL_word_medium; 4: TOEFL_word_advanced')
     book = input('Enter a number to select a book to play: ')
     Book_name = Books[int(book)]
     print('Loading word list from file...')
-    Book = open(Book_name, 'r')
+    if book == str(1):
+        Book = open(Book_name, encoding = 'utf-8')
+    else:
+        Book = open(Book_name, 'r')
     wordList = {}
     for line in Book:
         vocab = line.split(None, 1)
@@ -23,7 +34,7 @@ def loadWords():
         wordList[word] = meaning
     print(len(wordList))
     return wordList
-
+    
 def getWord(wordList):
     word = random.choice(list(wordList))
     return word, wordList[word]
@@ -66,9 +77,11 @@ def review(incorrect_attempt, wordList):
     if isMatch(answer, reattempt):
         print('This is correct!')
         incorrect_attempt.remove(answer)
+    elif not isMatch(answer, reattempt):
+        print('This is incorrect! The correct answer is ', answer)
     return incorrect_attempt
 
 # testing    
 #if __name__ == '__main__':
 #    wordList = loadWords()
-#    print(len(getWord(wordList)))
+#    print(getWord(wordList))

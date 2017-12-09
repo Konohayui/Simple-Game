@@ -19,7 +19,7 @@ def find_empty_cell(unsol):
         for col in range(9):
             if unsol[row][col] == 0:
                 return [row, col]
-    return False
+    return("Not Empty")
 
 # determine valid number 
 def check_valid(unsol, row, col, num):
@@ -49,7 +49,7 @@ def check_valid(unsol, row, col, num):
     
 def solver(unsol):    
     pos = find_empty_cell(unsol)
-    if pos != False:
+    if pos != "Not Empty":
         row = pos[0]
         col = pos[1]
     else: return True # no empty space, problem solved

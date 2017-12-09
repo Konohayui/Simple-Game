@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  8 13:50:30 2017
-
-@author: yu
-"""
-
 """
 This program applies crosshatching (a method for solving sudokus) 
 and backtracking 

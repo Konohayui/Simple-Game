@@ -20,7 +20,7 @@ def find_subsequence(grid, i, j, check_points, path):
     M, N = len(grid), len(grid[1])
     
     for move in directions:
-        # update new direction
+        # update direction
         new_i, new_j = move[0] + i, move[1] + j
         if 0 <= new_i < M and 0 <= new_j < N:
             # check condiction and check repeat cells

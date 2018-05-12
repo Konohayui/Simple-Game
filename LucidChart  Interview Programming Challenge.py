@@ -16,6 +16,7 @@ def find_subsequence(grid, i, j, check_points, path):
                   [-1, 1], [1, 1],   # up left, up right
                   [-1, -1], [1, -1]] # down left, down right
     
+    # set length one for a cell
     length = 1
     M, N = len(grid), len(grid[1])
     
@@ -28,10 +29,11 @@ def find_subsequence(grid, i, j, check_points, path):
                 # add valid cell into path
                 path.append((new_i, new_j))
                 length = max(length, 1 + find_subsequence(grid, new_i, new_j, check_points, path))
-        
+     
+    # assign the length to the start cell
     check_points[i, j] = length
     return length
-	
+    
 def longest_subsequence(grid):
     
     """
@@ -76,6 +78,10 @@ def main():
     grid3 = [[4, 2, 4],
              [0, 3, 1], 
              [3, 7, 9]]
+    
+    grid4 = [[1, 2, 3, 4], 
+             [5, 6, 7, 8], 
+             [9, 10, 11, 12]]
 
     print(longest_subsequence(grid))
     print("Answer is 9")
@@ -86,11 +92,13 @@ def main():
     print(longest_subsequence(grid3))
     print("Answer is 6")
     
+    print(longest_subsequence(grid4))
+    
 #    res = longest_subsequence(grid2)
 #    print(str(res) + "\n")
 
 if __name__ == "__main__":
     main()
 
-	
-	
+    
+    
